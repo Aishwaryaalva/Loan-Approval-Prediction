@@ -4,17 +4,17 @@ This is a **Machine Learning web app** that predicts whether a loan will be appr
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔐 Login & Signup system
-* 🏦 Simple banking-style UI
-* 🤖 ML model for prediction (Random Forest)
-* 📊 Shows approval probability
-* ⚖️ Basic rule validation (e.g., income ≠ 0)
+* Login & Signup system
+* Simple banking-style UI
+* ML model for prediction (Random Forest)
+* Shows approval probability
+* Basic rule validation (e.g., income ≠ 0)
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 * Python
 * Streamlit
@@ -24,7 +24,7 @@ This is a **Machine Learning web app** that predicts whether a loan will be appr
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
